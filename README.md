@@ -1,9 +1,7 @@
 # sensor-immersion-google-forms
 this is where we host the google forms for all the teacher's assessments during sensor immersion
 
-
 > Open this page at [https://schoolwidelabs.github.io/sensor-immersion-google-forms/](https://schoolwidelabs.github.io/sensor-immersion-google-forms/)
-
 
 ## Teacher A
 ### Magnets
